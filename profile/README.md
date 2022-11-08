@@ -4,7 +4,7 @@ The xDevGuild is a place where MultiversX blockchain developers can collaborate 
 
 We encourage you to join and contribute. You can start by adding some interesting links to the [awesome-multiversx-dev-resources](https://github.com/xdevguild/awesome-multiversx-dev-resources). 
 
-You can also reach us if you would like to be a curator of your repository here in the Guild.
+You can also reach us if you would like to be a curator of your repository here in the Guild. [JOIN!](https://github.com/orgs/xdevguild/discussions/1)
 
 If you would like to discuss something related to the Guild and MultiversX dev stuff, you could try the [Discussions](https://github.com/orgs/xdevguild/discussions) section.
 
