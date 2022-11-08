@@ -1,6 +1,6 @@
 ## Hi there! ⚡
 
-The xDevGuild is a place where MultiversX blockchain developers can collaborate and share their repositories. We have an awesome list of all dev-related resources and a couple of useful repositories. And hopefully, there will be more and more. All will be open source. 
+The xDevGuild is a place where MultiversX (previously Elrond) blockchain developers can collaborate and share their repositories. We have an awesome list of all dev-related resources and a couple of useful repositories. And hopefully, there will be more and more. All will be open source. 
 
 We encourage you to join and contribute. You can start by adding some interesting links to the [awesome-multiversx-dev-resources](https://github.com/xdevguild/awesome-multiversx-dev-resources). 
 
